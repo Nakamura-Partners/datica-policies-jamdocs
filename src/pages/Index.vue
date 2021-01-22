@@ -25,9 +25,9 @@ export default {
     Shortcut
   },
   metaInfo: {
-    title: 'Datica Compliance Policies',
+    title: 'Nakamura Compliance Policies',
     meta: [
-      { key: 'description', name: 'description', content: 'Datica open-source compliance policies.' }
+      { key: 'description', name: 'description', content: 'Nakamura compliance policies.' }
     ]
   }
 }
