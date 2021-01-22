@@ -9,7 +9,7 @@
         <Shortcut link="/roles" text="Roles and Responsibilities" icon="users-icon" />
         <Shortcut link="/policies" text="Policies" icon="check-square-icon" />
       </nav>
-      <GitLink class="git" size="large" />
+      <!-- <GitLink class="git" size="large" /> -->
       <span class="sitelink">Visit <a href="https://nakamurapartners.com/" title="Nakamura Main Site">Nakamura</a> main site</span>
     </div>
   </Layout>
