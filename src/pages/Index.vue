@@ -79,7 +79,7 @@ p.lead {
   max-width: 50em;
 }
 .sitelink {
-  margin: 1rem;
+  margin: 2rem;
   text-align: center;
   a {
     font-weight: bold;
